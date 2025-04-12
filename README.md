@@ -72,7 +72,7 @@ Whether you want to build a customer support assistant, an educational tutor, or
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/smartdialog-ai.git
+   git clone https://github.com/CEORocks/smartdialog-ai.git
    cd smartdialog-ai
    ```
 
